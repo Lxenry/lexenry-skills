@@ -1,0 +1,9 @@
+{
+  "line1": [["WorkBuddy", "lime", "inter"]],
+  "line2": [["做", "white", "sc9"], ["PPT", "white", "inter"], ["天花板", "orange", "sc9"]],
+  "strip": [["一句话装好 · ", "ink", "sc9"], ["点哪改哪", "orange", "sc9"]],
+  "badge": ["开源星标", "78.3K"],
+  "chip": "原生 .pptx · 可编辑",
+  "cards": ["frames/replica_01_product_first.jpg", "frames/replica_02_screen_box.jpg", "frames/replica_03_cam_center.jpg"],
+  "portrait": ""
+}

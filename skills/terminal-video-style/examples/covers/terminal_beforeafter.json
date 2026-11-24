@@ -1,0 +1,5 @@
+{"mode": "beforeafter", "hud": "● APPNAME://CONNECT", "n": 3, "done": 3, "status": "diff --before --after",
+ "line1": [["AppName 接", "fg"]], "line2": [["G站", "lime"], [" 前后对比", "fg"]],
+ "before_label": "BEFORE · 没接", "before": ["> 新任务 #07", "开头要抓人……", "语气专业一点，别太死板", "上次那版不对，按这个改", "记住：别用这几个词……"], "before_tag": "从头再教一遍 ×7",
+ "after_label": "AFTER · 接上之后", "after": ["主题切入", "信息密度", "黄金三秒", "叙事结构"], "after_tag": "直接用成熟方法",
+ "foot": "> 点个加号，就接上"}

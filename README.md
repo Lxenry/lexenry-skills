@@ -1,5 +1,12 @@
 # Lexenry 的 Skill 练习
 
+## 已发布 Skill
+
+| Skill | 用途 | 使用说明 |
+|---|---|---|
+| [terminal-video-style](skills/terminal-video-style/) | 黑底黄绿终端风短视频，包含 4 种结构、3D 镜头和封面模板 | [介绍与示例](skills/terminal-video-style/README.md) · [安装说明](skills/terminal-video-style/INSTALL.md) |
+| [todo-card](skills/todo-card/SKILL.md) | 把零散待办整理成三行待办卡 | 下方示例 |
+
 第一个练习：`todo-card`，把一项零散待办整理成三行待办卡。
 
 ## 文件位置
